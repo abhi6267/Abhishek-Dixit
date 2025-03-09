@@ -1,7 +1,5 @@
 # Hi, I'm Abhi, an IT Professional
 <h2>👨‍💻 Information Technology Projects:</h2>
-
-- <b>osTicket (Help Desk Ticketing System)</b>
  - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/stephenlangtech/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/stephenlangtech/post-install-config)
