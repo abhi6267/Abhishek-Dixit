@@ -1,11 +1,10 @@
 # Hi, I'm Abhi, an IT Professional
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-
  - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/stephenlangtech/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/stephenlangtech/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/stephenlangtech/ticket-lifecycle)
+   - [osTicket: Prerequisites and Installation](https://github.com/stephenlangtech/osticket-prereqs)
+   - [osTicket: Post-Installation Configuration](https://github.com/stephenlangtech/post-install-config)
+   - [osTicket: Ticket Lifecycle Examples](https://github.com/stephenlangtech/ticket-lifecycle)
     
 - <b>Networks in Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/stephenlangtech/azure-network-protocols)
